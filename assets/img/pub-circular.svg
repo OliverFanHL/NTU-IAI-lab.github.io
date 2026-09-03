@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246" role="img" aria-labelledby="title desc">
+  <title id="title">Circular manufacturing</title>
+  <desc id="desc">Abstract circular economy loop for manufacturing systems.</desc>
+  <rect width="540" height="246" rx="12" fill="#f6f8f9"/>
+  <path d="M176 78c49-44 126-38 168 10" fill="none" stroke="#19324a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M351 84l-7 50-44-25z" fill="#19324a"/>
+  <path d="M360 168c-49 44-126 38-168-10" fill="none" stroke="#b41f3a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M185 162l7-50 44 25z" fill="#b41f3a"/>
+  <circle cx="268" cy="123" r="42" fill="#d7e2e5"/>
+  <path d="M248 124h40M268 104v40" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="143" cy="80" r="12" fill="#c98a2a"/>
+  <circle cx="397" cy="166" r="12" fill="#c98a2a"/>
+</svg>

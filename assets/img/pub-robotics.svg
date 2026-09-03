@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246" role="img" aria-labelledby="title desc">
+  <title id="title">Industrial robotics</title>
+  <desc id="desc">Abstract robot arm over a production cell.</desc>
+  <rect width="540" height="246" rx="12" fill="#f6f8f9"/>
+  <rect x="68" y="166" width="404" height="22" rx="6" fill="#19324a"/>
+  <circle cx="160" cy="118" r="28" fill="#b41f3a"/>
+  <path d="M184 108l84-42 20 36-82 43z" fill="#d7e2e5" stroke="#19324a" stroke-width="6"/>
+  <path d="M294 94l72 34-18 39-72-34z" fill="#d7e2e5" stroke="#19324a" stroke-width="6"/>
+  <circle cx="374" cy="148" r="20" fill="#c98a2a"/>
+  <path d="M386 158l44 28M388 136l48-20" stroke="#19324a" stroke-width="8" stroke-linecap="round"/>
+  <rect x="105" y="68" width="36" height="98" rx="8" fill="#9ab1b7"/>
+</svg>

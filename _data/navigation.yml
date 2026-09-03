@@ -1,0 +1,17 @@
+main:
+
+  - title: "Teaching"
+    url: teaching/
+    right: true 
+
+  - title: "Activities"
+    url: activities/
+
+  - title: "Group"
+    url: research-group/
+
+  - title: "Publications"
+    url: publications/
+
+  - title: "Home"
+    url: 

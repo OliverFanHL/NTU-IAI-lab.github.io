@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 248" role="img" aria-labelledby="title desc">
+  <title id="title">CIRPe Best Paper Award activity</title>
+  <desc id="desc">Abstract manufacturing network with award ribbon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8f4fb"/>
+      <stop offset="1" stop-color="#f7efe6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#19324a"/>
+      <stop offset="1" stop-color="#8f1830"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="248" fill="url(#bg)"/>
+  <g opacity="0.32" fill="none" stroke="#19324a" stroke-width="4">
+    <path d="M40 178c48-56 96-31 139-76 45-47 100-63 160-31"/>
+    <path d="M52 196c45-34 88-29 130-8 50 25 96 24 145-24"/>
+  </g>
+  <g fill="#19324a">
+    <circle cx="62" cy="174" r="12"/>
+    <circle cx="147" cy="127" r="10"/>
+    <circle cx="230" cy="84" r="13"/>
+    <circle cx="319" cy="76" r="10"/>
+    <rect x="55" y="166" width="14" height="36" rx="3"/>
+    <rect x="140" y="121" width="14" height="62" rx="3"/>
+    <rect x="223" y="76" width="14" height="92" rx="3"/>
+    <rect x="312" y="70" width="14" height="75" rx="3"/>
+  </g>
+  <g transform="translate(250 138)">
+    <circle cx="46" cy="34" r="31" fill="#f3c85a" stroke="#9d7722" stroke-width="5"/>
+    <path d="M31 62l-9 36 24-14 24 14-9-36" fill="#8f1830"/>
+    <path d="M32 34h28M46 20v28" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="30" y="58" font-family="Source Sans 3, Arial, sans-serif" font-size="28" font-weight="700" fill="#19324a">CIRPe</text>
+  <text x="30" y="88" font-family="Source Sans 3, Arial, sans-serif" font-size="18" font-weight="600" fill="#8f1830">Best Paper Award</text>
+</svg>

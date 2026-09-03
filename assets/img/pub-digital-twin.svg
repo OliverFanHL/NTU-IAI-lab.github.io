@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246" role="img" aria-labelledby="title desc">
+  <title id="title">Digital twin</title>
+  <desc id="desc">Abstract physical and digital factory blocks connected by data links.</desc>
+  <rect width="540" height="246" rx="12" fill="#f6f8f9"/>
+  <rect x="84" y="78" width="126" height="90" rx="10" fill="#19324a"/>
+  <rect x="330" y="78" width="126" height="90" rx="10" fill="#d7e2e5" stroke="#19324a" stroke-width="6"/>
+  <path d="M107 168v-34h28v34M152 168v-54h36v54" fill="#ffffff" opacity="0.9"/>
+  <path d="M353 168v-34h28v34M398 168v-54h36v54" fill="#ffffff" opacity="0.9"/>
+  <path d="M222 96h86M318 150h-86" stroke="#9ab1b7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M298 77l26 19-26 19M242 131l-26 19 26 19" fill="none" stroke="#b41f3a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

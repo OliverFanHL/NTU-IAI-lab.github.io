@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246" role="img" aria-labelledby="title desc">
+  <title id="title">Semiconductor manufacturing</title>
+  <desc id="desc">Abstract semiconductor wafer and connected manufacturing nodes.</desc>
+  <rect width="540" height="246" rx="12" fill="#f6f8f9"/>
+  <circle cx="160" cy="123" r="74" fill="#d7e2e5" stroke="#19324a" stroke-width="6"/>
+  <path d="M92 123h136M160 55v136M112 75l96 96M208 75l-96 96" stroke="#ffffff" stroke-width="6"/>
+  <path d="M288 73h150v38H288zM288 135h116v38H288z" fill="#19324a"/>
+  <circle cx="465" cy="92" r="14" fill="#b41f3a"/>
+  <circle cx="432" cy="154" r="14" fill="#c98a2a"/>
+  <path d="M234 123h54M438 92h27M404 154h28" stroke="#9ab1b7" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246" role="img" aria-labelledby="title desc">
+  <title id="title">Sustainable production</title>
+  <desc id="desc">Abstract optimized production line with sustainability signal.</desc>
+  <rect width="540" height="246" rx="12" fill="#f6f8f9"/>
+  <path d="M74 168h392" stroke="#19324a" stroke-width="16" stroke-linecap="round"/>
+  <rect x="103" y="112" width="62" height="50" rx="8" fill="#d7e2e5" stroke="#19324a" stroke-width="5"/>
+  <rect x="239" y="92" width="62" height="70" rx="8" fill="#d7e2e5" stroke="#19324a" stroke-width="5"/>
+  <rect x="375" y="122" width="62" height="40" rx="8" fill="#d7e2e5" stroke="#19324a" stroke-width="5"/>
+  <path d="M151 82c35-32 69-30 102 6s69 34 106 1" fill="none" stroke="#b41f3a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M365 84c7-24 28-37 54-34-3 28-19 45-48 48" fill="#c98a2a"/>
+  <circle cx="134" cy="188" r="10" fill="#9ab1b7"/>
+  <circle cx="270" cy="188" r="10" fill="#9ab1b7"/>
+  <circle cx="406" cy="188" r="10" fill="#9ab1b7"/>
+</svg>

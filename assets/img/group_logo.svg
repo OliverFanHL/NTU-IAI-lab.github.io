@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="198 296 859 711">
+  <defs>
+    <linearGradient id="magentaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF4F85"/>
+      <stop offset="100%" stop-color="#D10052"/>
+    </linearGradient>
+    <style>
+      .magenta { fill: url(#magentaGrad); }
+      .light { fill: #F3F7FB; }
+      .light-stroke { stroke: #F3F7FB; }
+      .char { fill: #F3F7FB; }
+      .char-stroke { stroke: #F3F7FB; }
+      .darktext { fill: #F3F7FB; }
+      .pinktext { fill: #FF4F85; }
+      .orange { fill: #F6B23C; }
+      .label { font-family: Arial, Helvetica, sans-serif; font-weight: 700; }
+    </style>
+  </defs>
+
+  <!-- Left I -->
+  <g>
+    <rect x="202" y="296" width="112" height="534" rx="26" class="magenta"/>
+    <path d="M202 714 L202 830 H314 V609 Z" fill="#E9EEF5" opacity="0.98"/>
+    <path d="M255 703 V430" class="light-stroke" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M219 739 V502 L239 483 V428" class="light-stroke" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M236 694 V566 L257 546 V474" class="light-stroke" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="255" cy="420" r="17" fill="none" stroke="#F3F7FB" stroke-width="8"/>
+    <circle cx="219" cy="492" r="17" fill="none" stroke="#F3F7FB" stroke-width="8"/>
+    <circle cx="255" cy="670" r="14" fill="none" stroke="#F3F7FB" stroke-width="8"/>
+  </g>
+
+  <!-- Main A -->
+  <g>
+    <path d="M315 834 L605 297 H682 L950 834 H798 L638 438 L470 834 Z" class="magenta"/>
+
+    <!-- robotic arm inside A -->
+    <g>
+      <circle cx="560" cy="572" r="28" fill="#F3F7FB"/>
+      <circle cx="560" cy="572" r="18" fill="#304050"/>
+      <path d="M456 729 L549 600" class="char-stroke" stroke-width="12" stroke-linecap="round"/>
+      <path d="M567 572 H707" class="char-stroke" stroke-width="38" stroke-linecap="round"/>
+      <path d="M448 730 C429 719 404 720 379 730" class="char-stroke" stroke-width="50" stroke-linecap="round"/>
+      <path d="M393 742 C402 770 395 801 369 829" class="char-stroke" stroke-width="52" stroke-linecap="round"/>
+      <path d="M367 830 H471" class="char-stroke" stroke-width="8" opacity="0"/>
+    </g>
+
+    <!-- network motif under arm -->
+    <g>
+      <circle cx="631" cy="694" r="18" fill="#D10052"/>
+      <circle cx="528" cy="804" r="19" class="light"/>
+      <circle cx="737" cy="804" r="19" class="light"/>
+      <circle cx="632" cy="818" r="18" class="orange"/>
+      <path d="M631 694 L528 804 L632 818 L737 804 Z" class="char-stroke" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M631 694 V818" class="char-stroke" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Right I -->
+  <g>
+    <rect x="951" y="296" width="106" height="534" rx="26" class="magenta"/>
+    <path d="M951 635 V830 H1057 V587 Z" fill="#E9EEF5" opacity="0.98"/>
+    <circle cx="1002" cy="650" r="21" fill="#F3F7FB"/>
+    <circle cx="1002" cy="650" r="12" class="orange"/>
+    <path d="M975 677 L952 698" class="light-stroke" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1029 623 L1052 600" class="light-stroke" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Bottom text -->
+  <text x="360" y="988" class="label" font-size="92" letter-spacing="2">
+    <tspan class="pinktext">IAI</tspan>
+    <tspan dx="28" class="darktext">Lab</tspan>
+  </text>
+</svg>

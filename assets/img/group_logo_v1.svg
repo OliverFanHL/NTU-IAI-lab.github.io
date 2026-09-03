@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-2.04 95.96 859 559">
+ <defs>
+  <linearGradient y2="1" x2="0" y1="0" x1="0" id="magentaGrad">
+   <stop stop-color="#FF4F85" offset="0%"/>
+   <stop stop-color="#D10052" offset="100%"/>
+  </linearGradient>
+ </defs>
+ <!-- Left I -->
+ <!-- Main A -->
+ <!-- Right I -->
+ <!-- Bottom text -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect id="svg_2" fill="url(#magentaGrad)" class="magenta" rx="26" height="534" width="112" y="95.9557" x="1.9557"/>
+   <path id="svg_3" opacity="0.98" fill="#E9EEF5" d="m1.9557,513.9557l0,116l112,0l0,-221l-112,105z"/>
+   <path id="svg_4" stroke="#F3F7FB" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" class="light-stroke" d="m54.9557,502.9557l0,-273"/>
+   <path id="svg_5" stroke="#F3F7FB" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" class="light-stroke" d="m18.9557,538.9557l0,-237l20,-19l0,-55"/>
+   <path id="svg_6" stroke="#F3F7FB" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" class="light-stroke" d="m35.9557,493.9557l0,-128l21,-20l0,-72"/>
+   <circle id="svg_7" stroke-width="8" stroke="#F3F7FB" fill="none" r="17" cy="219.9557" cx="54.9557"/>
+   <circle id="svg_8" stroke-width="8" stroke="#F3F7FB" fill="none" r="17" cy="291.9557" cx="18.9557"/>
+   <circle id="svg_9" stroke-width="8" stroke="#F3F7FB" fill="none" r="14" cy="469.9557" cx="54.9557"/>
+  </g>
+  <g id="svg_10">
+   <path id="svg_11" fill="url(#magentaGrad)" class="magenta" d="m114.9557,633.9557l290,-537l77,0l268,537l-152,0l-160,-396l-168,396l-155,0z"/>
+   <!-- robotic arm inside A -->
+   <g id="svg_12">
+    <circle id="svg_13" fill="#F3F7FB" r="28" cy="371.9557" cx="359.9557"/>
+    <circle id="svg_14" fill="#304050" r="18" cy="371.9557" cx="359.9557"/>
+    <path id="svg_15" stroke="#F3F7FB" stroke-linecap="round" stroke-width="12" class="char-stroke" d="m255.9557,528.9557l93,-129"/>
+    <path id="svg_16" stroke="#F3F7FB" stroke-linecap="round" stroke-width="38" class="char-stroke" d="m366.9557,371.9557l140,0"/>
+    <path id="svg_17" stroke="#F3F7FB" stroke-linecap="round" stroke-width="50" class="char-stroke" d="m247.9557,529.9557c-19,-11 -44,-10 -69,0"/>
+    <path id="svg_18" stroke="#F3F7FB" stroke-linecap="round" stroke-width="52" class="char-stroke" d="m192.9557,541.9557c9,28 2,59 -24,87"/>
+    <path id="svg_19" stroke="#F3F7FB" opacity="0" stroke-width="8" class="char-stroke" d="m166.9557,629.9557l104,0"/>
+   </g>
+   <!-- network motif under arm -->
+   <g id="svg_20">
+    <circle id="svg_21" fill="#D10052" r="18" cy="493.9557" cx="430.9557"/>
+    <circle id="svg_22" fill="#F3F7FB" class="light" r="19" cy="603.9557" cx="327.9557"/>
+    <circle id="svg_23" fill="#F3F7FB" class="light" r="19" cy="603.9557" cx="536.9557"/>
+    <circle id="svg_24" fill="#F6B23C" class="orange" r="18" cy="617.9557" cx="431.9557"/>
+    <path id="svg_25" stroke="#F3F7FB" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-width="5" class="char-stroke" d="m430.9557,493.9557l-103,110l104,14l105,-14l-106,-110z"/>
+    <path id="svg_26" stroke="#F3F7FB" stroke-linecap="round" stroke-width="5" class="char-stroke" d="m430.9557,493.9557l0,124"/>
+   </g>
+  </g>
+  <g id="svg_27">
+   <rect id="svg_28" fill="url(#magentaGrad)" class="magenta" rx="26" height="534" width="106" y="95.9557" x="750.9557"/>
+   <path id="svg_29" opacity="0.98" fill="#E9EEF5" d="m750.9557,434.9557l0,195l106,0l0,-243l-106,48z"/>
+   <circle id="svg_30" fill="#F3F7FB" r="21" cy="449.9557" cx="801.9557"/>
+   <circle id="svg_31" fill="#F6B23C" class="orange" r="12" cy="449.9557" cx="801.9557"/>
+   <path id="svg_32" stroke="#F3F7FB" stroke-linecap="round" stroke-width="8" class="light-stroke" d="m774.9557,476.9557l-23,21"/>
+   <path id="svg_33" stroke="#F3F7FB" stroke-linecap="round" stroke-width="8" class="light-stroke" d="m828.9557,422.9557l23,-23"/>
+  </g>
+ </g>
+</svg>

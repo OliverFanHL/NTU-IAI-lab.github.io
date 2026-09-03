@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Group member placeholder</title>
+  <desc id="desc">Abstract profile image for Industrial AI Lab members.</desc>
+  <rect width="220" height="220" rx="16" fill="#f6f8f9"/>
+  <circle cx="110" cy="82" r="38" fill="#d7e2e5"/>
+  <path d="M46 186c7-42 32-66 64-66s57 24 64 66" fill="#d7e2e5"/>
+  <path d="M44 55h132M44 164h132M55 44v132M165 44v132" stroke="#9ab1b7" stroke-width="4" opacity="0.45"/>
+  <circle cx="55" cy="55" r="7" fill="#b41f3a"/>
+  <circle cx="165" cy="164" r="7" fill="#c98a2a"/>
+</svg>

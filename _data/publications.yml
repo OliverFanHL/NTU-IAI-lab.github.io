@@ -1,0 +1,65 @@
+main:
+
+  - title: "LLM actor-critic based dispatching rule generation for dynamic job shop scheduling"
+    authors: "<strong>Marvin Carl May</strong>, Shady Salama, Johannes Pflüger, Toshiya Kaihara"
+    conference_short: CIRP
+    conference: "CIRP Annals, 2026."
+    pdf: "https://www.sciencedirect.com/science/article/pii/S0007850626000302"
+    link_label: Paper
+    image: "../assets/img/pub-llm-actor-critic.jpg"
+
+  - title: "Toward machine-learning-based interpretation of tribological deformation patterns in molecular dynamics data"
+    authors: "Hendrik J. Ehrich, <strong>Marvin C. May</strong>, Stefan J. Eder"
+    conference_short: Friction
+    conference: "Friction, 2026."
+    pdf: "https://www.sciopen.com/article/10.26599/FRICT.2026.9441269"
+    link_label: Paper
+    image: "../assets/img/pub-tribology.jpg"
+
+  - title: "Real-to-sim: automatic simulation model generation for a digital twin in semiconductor manufacturing"
+    authors: "Sebastian Behrendt, Thomas Altenmüller, <strong>Marvin Carl May</strong>, Andreas Kuhnle, Gisela Lanza"
+    conference_short: JIM
+    conference: "Journal of Intelligent Manufacturing, 2026."
+    pdf: "https://link.springer.com/article/10.1007/s10845-025-02572-x"
+    link_label: Paper
+    image: "../assets/img/pub-real-to-sim.png"
+
+  - title: "Agentic LLM-based Contingency Management in Production Control"
+    authors: "<strong>Marvin Carl May</strong>, Paul Liang, Sang-Gook Kim"
+    conference_short: Procedia
+    conference: "Procedia CIRP, 2026."
+    pdf: "https://www.sciencedirect.com/science/article/pii/S2212827125010182"
+    link_label: Paper
+    image: "../assets/img/pub-semiconductor.svg"
+
+  - title: "Assisted production system planning by means of complex robotic assembly line balancing"
+    authors: "Louis Schaefer, Stefan Tse, <strong>Marvin Carl May</strong>, Gisela Lanza"
+    conference_short: JMS
+    conference: "Journal of Manufacturing Systems, 2025."
+    pdf: "https://www.sciencedirect.com/science/article/pii/S0278612524002619"
+    link_label: Paper
+    image: "../assets/img/pub-assisted-planning.jpg"
+
+  - title: "IIoT System Canvas - From architecture patterns towards an IIoT development framework"
+    authors: "<strong>Marvin Carl May</strong>, Daniel Glatter, Dominik Arnold, Daniel Pfeffer, Gisela Lanza"
+    conference_short: JMS
+    conference: "Journal of Manufacturing Systems, 2024."
+    pdf: "https://www.sciencedirect.com/science/article/pii/S0278612523002492"
+    link_label: Paper
+    image: "../assets/img/pub-iiot-canvas.jpg"
+
+  - title: "Managing product-inherent constraints with artificial intelligence: production control for time constraints in semiconductor manufacturing"
+    authors: "<strong>Marvin Carl May</strong>, Jan Oberst, Gisela Lanza"
+    conference_short: JIM
+    conference: "Journal of Intelligent Manufacturing, 2024."
+    pdf: "https://link.springer.com/article/10.1007/s10845-024-02472-6"
+    link_label: Paper
+    image: "../assets/img/pub-time-constraints.png"
+
+  - title: "Explainable reinforcement learning in production control of job shop manufacturing system"
+    authors: "Andreas Kuhnle, <strong>Marvin Carl May</strong>, Louis Schäfer, Gisela Lanza"
+    conference_short: IJPR
+    conference: "International Journal of Production Research, 2022."
+    pdf: "https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.1972179"
+    link_label: Paper
+    image: "../assets/img/pub-sustainability.svg"

@@ -1,0 +1,21 @@
+main:
+
+  - title: "ROSCell: A ROS2-based framework for automated formation and orchestration of multi-robot systems"
+    authors: Jiangtao Shuai, <strong>Marvin Carl May</strong>, Sonja Schimmler, Manfred Hauswirth
+    conference_short: arXiv
+    conference: arXiv:2603.23690, 2026.
+    year: 2026
+    pdf: https://arxiv.org/abs/2603.23690
+    link_label: arXiv
+    bibtex: https://dblp.org/rec/journals/corr/abs-2603-23690.html?view=bibtex
+    image: ../assets/img/pub-robotics.svg
+
+  - title: "Human-AI interaction in industrial robotics: design and empirical evaluation of a user interface for explainable AI-based robot program optimization"
+    authors: Benjamin Alt, Johannes Zahn, Claudius Kienle, Julia Dvorak, <strong>Marvin Carl May</strong>, Darko Katic, Rainer Jaekel, Tobias Kopp, Michael Beetz, Gisela Lanza
+    conference_short: arXiv
+    conference: arXiv:2404.19349, 2024.
+    year: 2024
+    pdf: https://arxiv.org/abs/2404.19349
+    link_label: arXiv
+    bibtex: https://dblp.org/rec/journals/corr/abs-2404-19349.html?view=bibtex
+    image: ../assets/img/pub-robotics.svg
