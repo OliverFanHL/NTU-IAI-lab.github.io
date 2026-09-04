@@ -9,3 +9,5 @@ Nanyang Technological University Singapore
 Email: <a href="mailto:marvin.may@ntu.edu.sg">marvin.may(∂t)ntu.edu.sg</a>
 <br />
 Office: N3-02c-69
+<br />
+Application enquiries should be written in English and include English-language application materials.

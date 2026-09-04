@@ -11,7 +11,7 @@ We are building a collaborative environment for researchers who want to translat
 
 
 <div style="border-left: 4px solid #b41f3a; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
-<strong style="color:#8f1830;">Prospective students and collaborators: We welcome conversations around Industrial AI, semiconductor manufacturing, generative engineering, digital twins, and manufacturing systems. Please contact Prof. May at <a href="mailto:marvin.may@ntu.edu.sg">marvin.may(∂t)ntu.edu.sg</a>.</strong>
+<strong style="color:#8f1830;">Prospective students and collaborators: We welcome conversations around Industrial AI, semiconductor manufacturing, generative engineering, digital twins, and manufacturing systems. Please contact Prof. May at <a href="mailto:marvin.may@ntu.edu.sg">marvin.may(∂t)ntu.edu.sg</a>. Application enquiries should be written in English and include English-language application materials.</strong>
 </div>
 
 

@@ -152,6 +152,11 @@ permalink: /research-group/
   <li>Addison Yam</li>
   <li>Fritz Luhur</li>
   <li>Jia En Lau</li>
+  <li><a href="https://www.linkedin.com/in/28988b379">Wentian Xiao</a></li>
+  <li>Binyao Zhang</li>
+  <li>Zhan Wu</li>
+  <li>Sisi Yao</li>
+  <li>Meng Wang</li>
 </ul>
 
 <p class="textsectionheader2">Bachelor's Students</p>
@@ -160,13 +165,8 @@ permalink: /research-group/
   <li>Wenda Chang</li>
   <li>Siravit Keeratipranon</li>
   <li>Angel Natalia</li>
-  <li>Wentian Xiao</li>
   <li>Yan Wu</li>
-  <li>Binyao Zhang</li>
   <li>Chengyao Jing</li>
-  <li>Zhan Wu</li>
-  <li>Sisi Yao</li>
-  <li>Meng Wang</li>
   <li>Annan Gilberto Gonzalez Garnes</li>
 </ul>
 
